@@ -1,0 +1,7 @@
+[
+  "cases/test_cases/try_parametrize.py::Test_app::()::test_parametrize[1-2]",
+  "cases/test_cases/try_parametrize.py::Test_app::()::test_parametrize[2-4]",
+  "cases/test_cases/try_parametrize.py::Test_app::()::test_parametrize[4-3]",
+  "cases/test_cases/try_parametrize.py::Test_app::()::test_2",
+  "cases/test_cases/try_parametrize.py::Test_app::()::test_3"
+]

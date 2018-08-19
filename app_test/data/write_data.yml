@@ -1,0 +1,10 @@
+chinese:  ¬ µ…œ
+dat22: {g1: 1, g2: 2}
+date: [1, 2, 3, 4]
+'null': null
+null2: ''
+t1: 2017-10-01
+t2: !!python/object/apply:datetime.time
+- !!binary |
+  CwsLAAAA
+time: 111
