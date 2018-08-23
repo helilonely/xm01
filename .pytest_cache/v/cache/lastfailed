@@ -1,14 +1,1 @@
-{
-  "cases/mms_test.py": true,
-  "cases/mms_test.py::Test_app": true,
-  "cases/test_app.py::Test_app::()::test_params": true,
-  "cases/test_app.py::Test_app::()::test_params[3]": true,
-  "cases/test_app.py::Test_app::()::test_scroll2": true,
-  "cases/test_cases/try_parametrize.py::Test_app::()::test_2": true,
-  "cases/test_cases/try_parametrize.py::Test_app::()::test_3": true,
-  "cases/test_settting_search.py::Test_app::()::test_click_search_btn": true,
-  "cases/test_settting_search.py::Test_app::()::test_search[1-\\u4f11\\u7720]": true,
-  "cases/test_settting_search.py::Test_app::()::test_search[ip-IP\\u5730\\u5740]": true,
-  "cases/test_settting_search.py::Test_app::()::test_search[wl-WLAN]": true,
-  "cases/test_xfail/fail_test.py::Test_app::()::test_params": true
-}
+{}

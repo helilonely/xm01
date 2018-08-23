@@ -1,0 +1,28 @@
+#学院数据
+new_department_value:
+  {
+    "data":
+        [
+            {
+                "dep_id": "hahaha5",
+                "dep_name": "5",
+                "master_name": "6",
+                "slogan": "6"
+            }
+        ]
+}
+
+
+#学院要修改的数据
+to_put_department_value:
+ {
+    "data":
+        [
+            {
+                "dep_id": "hahaha5",
+                "dep_name": "hhaha",
+                "master_name": "haha",
+                "slogan": "aaaa"
+            }
+        ]
+}

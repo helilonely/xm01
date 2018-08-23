@@ -1,0 +1,66 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1535029929765" stop="1535029930086">
+  <name>test_request</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1535029929765" status="passed" stop="1535029929975">
+      <name>TestApi.test_add_departmensts</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="896-MainThread"/>
+        <label name="host" value="heli-pc"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535029929772" status="passed" stop="1535029929975">
+          <name>添加数据</name>
+          <title>添加数据</title>
+          <attachments>
+            <attachment source="39d9faac-c1f4-4fe5-abfd-f00b20c725e1-attachment.txt" title="向接口发送数据并且执行添加" type="text/plain"/>
+            <attachment source="37651eff-5f4c-443e-98da-3b53f7d1921e-attachment.txt" title="断言结果" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535029929979" status="passed" stop="1535029929996">
+      <name>TestApi.test_lookup</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="896-MainThread"/>
+        <label name="host" value="heli-pc"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535029929981" status="passed" stop="1535029929995">
+          <name>执行查询</name>
+          <title>执行查询</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1535029929996" status="passed" stop="1535029930086">
+      <name>TestApi.test_delete_department</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="896-MainThread"/>
+        <label name="host" value="heli-pc"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1535029929998" status="passed" stop="1535029930086">
+          <name>删除数据</name>
+          <title>删除数据</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

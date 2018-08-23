@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_request",
+    "children" : [ {
+      "name" : "TestApi.test_add_departmensts",
+      "uid" : "2ea7ccb1ff12ff68",
+      "parentUid" : "c395e29f8939ee6824f54e5bc3a90014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1534752823548,
+        "stop" : 1534752823730,
+        "duration" : 182
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestApi.test_lookup",
+      "uid" : "6bb0b6eb7eb3d0ae",
+      "parentUid" : "c395e29f8939ee6824f54e5bc3a90014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1534752823740,
+        "stop" : 1534752823752,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestApi.test_delete_department",
+      "uid" : "fed85c3fc442d760",
+      "parentUid" : "c395e29f8939ee6824f54e5bc3a90014",
+      "status" : "failed",
+      "time" : {
+        "start" : 1534752823753,
+        "stop" : 1534752823882,
+        "duration" : 129
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c395e29f8939ee6824f54e5bc3a90014"
+  } ]
+}

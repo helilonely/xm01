@@ -1,0 +1,31 @@
+[ {
+  "uid" : "6bb0b6eb7eb3d0ae",
+  "name" : "TestApi.test_lookup",
+  "time" : {
+    "start" : 1534752823740,
+    "stop" : 1534752823752,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ea7ccb1ff12ff68",
+  "name" : "TestApi.test_add_departmensts",
+  "time" : {
+    "start" : 1534752823548,
+    "stop" : 1534752823730,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fed85c3fc442d760",
+  "name" : "TestApi.test_delete_department",
+  "time" : {
+    "start" : 1534752823753,
+    "stop" : 1534752823882,
+    "duration" : 129
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

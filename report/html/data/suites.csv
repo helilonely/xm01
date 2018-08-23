@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_request.TestApi.test_lookup","12",""
+"passed","test_request.TestApi.test_add_departmensts","182",""
+"failed","test_request.TestApi.test_delete_department","129",""

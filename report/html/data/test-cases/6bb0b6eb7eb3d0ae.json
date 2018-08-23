@@ -1,0 +1,85 @@
+{
+  "uid" : "6bb0b6eb7eb3d0ae",
+  "name" : "TestApi.test_lookup",
+  "fullName" : "test_request.TestApi.test_lookup",
+  "historyId" : "6922ce6df942a138e280119901b70e35",
+  "time" : {
+    "start" : 1534752823740,
+    "stop" : 1534752823752,
+    "duration" : 12
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "执行查询",
+      "time" : {
+        "start" : 1534752823742,
+        "stop" : 1534752823752,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "heli-pc"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7740-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_request"
+  }, {
+    "name" : "testClass",
+    "value" : "test_request"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestApi.test_lookup"
+  }, {
+    "name" : "package",
+    "value" : "test_request"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bb0b6eb7eb3d0ae.json",
+  "parameterValues" : [ ]
+}

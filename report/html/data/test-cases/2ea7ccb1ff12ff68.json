@@ -1,0 +1,97 @@
+{
+  "uid" : "2ea7ccb1ff12ff68",
+  "name" : "TestApi.test_add_departmensts",
+  "fullName" : "test_request.TestApi.test_add_departmensts",
+  "historyId" : "313ce799081638230467b970581f033c",
+  "time" : {
+    "start" : 1534752823548,
+    "stop" : 1534752823730,
+    "duration" : 182
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "添加数据",
+      "time" : {
+        "start" : 1534752823555,
+        "stop" : 1534752823730,
+        "duration" : 175
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "63ee6457199a333c",
+        "name" : "向接口发送数据并且执行添加",
+        "source" : "63ee6457199a333c.txt",
+        "type" : "text/plain",
+        "size" : 0
+      }, {
+        "uid" : "cf463db5f59ccf53",
+        "name" : "断言结果",
+        "source" : "cf463db5f59ccf53.txt",
+        "type" : "text/plain",
+        "size" : 17
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "heli-pc"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7740-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_request"
+  }, {
+    "name" : "testClass",
+    "value" : "test_request"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestApi.test_add_departmensts"
+  }, {
+    "name" : "package",
+    "value" : "test_request"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ea7ccb1ff12ff68.json",
+  "parameterValues" : [ ]
+}
